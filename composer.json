@@ -5,6 +5,7 @@
     "homepage": "https://github.com/dasheng-live",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "dasheng live",
