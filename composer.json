@@ -1,8 +1,8 @@
 {
-    "name": "gzldx/zmxy-php-sdk",
+    "name": "zmxy/php-sdk",
     "description": "基于composer的php-sdk",
     "keywords": ["zmxy", "sdk"],
-    "homepage": "https://github.com/gzldx",
+    "homepage": "https://github.com/dasheng-live",
     "type": "library",
     "license": "MIT",
     "authors": [
